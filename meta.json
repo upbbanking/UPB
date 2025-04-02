@@ -3,12 +3,28 @@
     "symbol": "UPB",
     "description": "Crypto Banking & Payment Solution",
     "image": "https://raw.githubusercontent.com/upbbanking/UPB/main/upb.png",
+    "external_urls": {
+        "banking": "https://universalpaymentbank.com",
+        "payment": "https://upbpay.com",
+        "exchange": "https://upbexch.com",
+        "blockchain": "https://upbscan.com",
+        "block_validator": "https://play.google.com/store/apps/details?id=com.upbonline.upbmining&pcampaignid=web_share"
+    },
     "social": {
         "x": "https://x.com/upb_token",
         "telegram": "https://t.me/UPBToken",
         "website": "https://upbbank.com/",
+        "whitepaper": "https://universalpaymentbank.com/UPB_WhitePaper.pdf",
+        "medium": "https://upbtoken.medium.com/"
     },
+    "tags": ["DeFi", "Web3", "Crypto Payments", "Cross-Chain", "UPB Token", "Crypto UPI", "Crypto Bank", "Blockchain", "Crypto Exchange"],
     "properties": {
-        "category": "DeFi"
+        "category": "DeFi",
+        "tokenomics": {
+            "total_supply": "10,000,000,000",
+            "decimals": 9,
+            "contract_address": "upbugvJiwMbqeWfJgA2pV1gZ1snWCvNrm6oCt57eGnP",
+            "blockchain": "solana"
+        }
     }
   }
