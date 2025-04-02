@@ -1,5 +1,14 @@
 {
     "name": "Universal Payment Bank",
     "symbol": "UPB",
-    "image": "https://raw.githubusercontent.com/upbbanking/UPB/main/upb.png"
+    "description": "Crypto Banking & Payment Solution",
+    "image": "https://raw.githubusercontent.com/upbbanking/UPB/main/upb.png",
+    "social": {
+        "x": "https://x.com/upb_token",
+        "telegram": "https://t.me/UPBToken",
+        "website": "https://upbbank.com/",
+    },
+    "properties": {
+        "category": "DeFi"
+    }
   }
